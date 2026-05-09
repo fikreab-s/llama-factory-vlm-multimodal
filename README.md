@@ -1,6 +1,9 @@
-# 👁️ Vision-Language Model Fine-Tuning (LLaMA-Factory)
+# Vision-Language Model Fine-Tuning
 
-> Fine-tuning vision-language models using LLaMA-Factory for document understanding, chart interpretation, and visual question answering.
+> Fine-tuning VLMs for document understanding tasks: chart interpretation, table extraction, and visual question answering using LLaMA-Factory.
+>
+> **Context:** Pharma analytics involves interpreting charts, tables, and dashboard screenshots. VLM fine-tuning enables models to extract structured data from visual reports — reducing manual data entry from analyst workflows.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
