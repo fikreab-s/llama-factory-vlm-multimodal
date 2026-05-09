@@ -1,0 +1,450 @@
+{"image_path": "images/chart_0000.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0001.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0002.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0003.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0004.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0005.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0006.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0007.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0008.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0009.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0010.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0011.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0012.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0013.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0014.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0015.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0016.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0017.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0018.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0019.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0020.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0021.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0022.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0023.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0024.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0025.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0026.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0027.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0028.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0029.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0030.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0031.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0032.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0033.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0034.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0035.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0036.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0037.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0038.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0039.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0040.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0041.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0042.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0043.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0044.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0045.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0046.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0047.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0048.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0049.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0050.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0051.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0052.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0053.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0054.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0055.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0056.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0057.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0058.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0059.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0060.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0061.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0062.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0063.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0064.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0065.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0066.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0067.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0068.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0069.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0070.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0071.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0072.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0073.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0074.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0075.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0076.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0077.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0078.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0079.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0080.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0081.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0082.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0083.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0084.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0085.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0086.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0087.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0088.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0089.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0090.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0091.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0092.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0093.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0094.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0095.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0096.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0097.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0098.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0099.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0100.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0101.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0102.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0103.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0104.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0105.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0106.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0107.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0108.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0109.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0110.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0111.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0112.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0113.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0114.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0115.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0116.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0117.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0118.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0119.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0120.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0121.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0122.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0123.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0124.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0125.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0126.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0127.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0128.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0129.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0130.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0131.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0132.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0133.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0134.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0135.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0136.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0137.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0138.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0139.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0140.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0141.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0142.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0143.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0144.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0145.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0146.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0147.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0148.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0149.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0150.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0151.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0152.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0153.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0154.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0155.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0156.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0157.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0158.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0159.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0160.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0161.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0162.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0163.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0164.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0165.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0166.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0167.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0168.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0169.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0170.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0171.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0172.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0173.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0174.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0175.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0176.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0177.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0178.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0179.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0180.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0181.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0182.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0183.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0184.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0185.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0186.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0187.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0188.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0189.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0190.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0191.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0192.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0193.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0194.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0195.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0196.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0197.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0198.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0199.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0200.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0201.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0202.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0203.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0204.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0205.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0206.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0207.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0208.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0209.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0210.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0211.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0212.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0213.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0214.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0215.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0216.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0217.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0218.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0219.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0220.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0221.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0222.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0223.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0224.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0225.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0226.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0227.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0228.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0229.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0230.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0231.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0232.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0233.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0234.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0235.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0236.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0237.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0238.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0239.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0240.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0241.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0242.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0243.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0244.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0245.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0246.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0247.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0248.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0249.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0250.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0251.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0252.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0253.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0254.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0255.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0256.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0257.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0258.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0259.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0260.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0261.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0262.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0263.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0264.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0265.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0266.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0267.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0268.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0269.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0270.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0271.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0272.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0273.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0274.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0275.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0276.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0277.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0278.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0279.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0280.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0281.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0282.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0283.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0284.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0285.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0286.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0287.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0288.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0289.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0290.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0291.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0292.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0293.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0294.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0295.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0296.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0297.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0298.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0299.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0300.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0301.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0302.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0303.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0304.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0305.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0306.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0307.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0308.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0309.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0310.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0311.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0312.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0313.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0314.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0315.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0316.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0317.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0318.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0319.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0320.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0321.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0322.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0323.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0324.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0325.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0326.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0327.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0328.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0329.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0330.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0331.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0332.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0333.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0334.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0335.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0336.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0337.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0338.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0339.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0340.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0341.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0342.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0343.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0344.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0345.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0346.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0347.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0348.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0349.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0350.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0351.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0352.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0353.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0354.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0355.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0356.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0357.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0358.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0359.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0360.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0361.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0362.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0363.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0364.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0365.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0366.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0367.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0368.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0369.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0370.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0371.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0372.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0373.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0374.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0375.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0376.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0377.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0378.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0379.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0380.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0381.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0382.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0383.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0384.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0385.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0386.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0387.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0388.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0389.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0390.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0391.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0392.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0393.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0394.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0395.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0396.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0397.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0398.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0399.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0400.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/report_page_0401.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/table_0402.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0403.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0404.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0405.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0406.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0407.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0408.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0409.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0410.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0411.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0412.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0413.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0414.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0415.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0416.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0417.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0418.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0419.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0420.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0421.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0422.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0423.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/table_0424.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0425.png", "question": "Which column has the highest average?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/table_0426.png", "question": "What is the total in the last row?", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/chart_0427.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0428.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0429.png", "question": "What is the main recommendation?", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0430.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0431.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/dashboard_screenshot_0432.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0433.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/chart_0434.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0435.png", "question": "What is the peak value?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0436.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/report_page_0437.png", "question": "Summarize the key findings.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0438.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/chart_0439.png", "question": "Which category is largest?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/report_page_0440.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
+{"image_path": "images/chart_0441.png", "question": "What trend does this chart show?", "doc_type": "chart", "answer": "[Placeholder answer for chart analysis]"}
+{"image_path": "images/dashboard_screenshot_0442.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0443.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/table_0444.png", "question": "Extract all values from column 3.", "doc_type": "table", "answer": "[Placeholder answer for table analysis]"}
+{"image_path": "images/dashboard_screenshot_0445.png", "question": "What time period is shown?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0446.png", "question": "What KPIs are displayed?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0447.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/dashboard_screenshot_0448.png", "question": "Which metric is in the red zone?", "doc_type": "dashboard_screenshot", "answer": "[Placeholder answer for dashboard_screenshot analysis]"}
+{"image_path": "images/report_page_0449.png", "question": "List all metrics mentioned.", "doc_type": "report_page", "answer": "[Placeholder answer for report_page analysis]"}
