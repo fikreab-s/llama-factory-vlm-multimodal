@@ -51,3 +51,9 @@ where $P_{\text{data}}$, $R_{\text{data}}$ measure accuracy of extracting data p
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![comparison](viz/comparison.png)
+
+---
